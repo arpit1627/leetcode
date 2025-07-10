@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/arpit1627/leetcode/tree/master/0204-count-primes) |
+## String
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/arpit1627/leetcode/tree/master/0093-restore-ip-addresses) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/arpit1627/leetcode/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
