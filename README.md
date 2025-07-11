@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/arpit1627/leetcode/tree/master/0134-gas-station) |
 | [0204-count-primes](https://github.com/arpit1627/leetcode/tree/master/0204-count-primes) |
 ## Math
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/arpit1627/leetcode/tree/master/0093-restore-ip-addresses) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/arpit1627/leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
