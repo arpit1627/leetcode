@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arpit1627/leetcode/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/arpit1627/leetcode/tree/master/0054-spiral-matrix) |
 | [0134-gas-station](https://github.com/arpit1627/leetcode/tree/master/0134-gas-station) |
 | [0204-count-primes](https://github.com/arpit1627/leetcode/tree/master/0204-count-primes) |
 ## Math
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/arpit1627/leetcode/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/arpit1627/leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/arpit1627/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
