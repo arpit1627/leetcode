@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/arpit1627/leetcode/tree/master/0054-spiral-matrix) |
 | [0134-gas-station](https://github.com/arpit1627/leetcode/tree/master/0134-gas-station) |
 | [0204-count-primes](https://github.com/arpit1627/leetcode/tree/master/0204-count-primes) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/arpit1627/leetcode/tree/master/0915-partition-array-into-disjoint-intervals) |
 ## Math
 |  |
 | ------- |
