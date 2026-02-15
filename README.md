@@ -78,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1084-sales-analysis-iii](https://github.com/arpit1627/leetcode/tree/master/1084-sales-analysis-iii) |
+| [1158-market-analysis-i](https://github.com/arpit1627/leetcode/tree/master/1158-market-analysis-i) |
 <!---LeetCode Topics End-->
