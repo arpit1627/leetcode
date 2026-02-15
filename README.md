@@ -74,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0917-reverse-only-letters](https://github.com/arpit1627/leetcode/tree/master/0917-reverse-only-letters) |
+## Database
+|  |
+| ------- |
+| [1084-sales-analysis-iii](https://github.com/arpit1627/leetcode/tree/master/1084-sales-analysis-iii) |
 <!---LeetCode Topics End-->
