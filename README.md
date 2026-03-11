@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/arpit1627/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/arpit1627/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0917-reverse-only-letters](https://github.com/arpit1627/leetcode/tree/master/0917-reverse-only-letters) |
 ## Backtracking
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/arpit1627/leetcode/tree/master/0133-clone-graph) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/arpit1627/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1084-sales-analysis-iii](https://github.com/arpit1627/leetcode/tree/master/1084-sales-analysis-iii) |
 | [1158-market-analysis-i](https://github.com/arpit1627/leetcode/tree/master/1158-market-analysis-i) |
+## Design
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/arpit1627/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/arpit1627/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
