@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arpit1627/leetcode/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/arpit1627/leetcode/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/arpit1627/leetcode/tree/master/0054-spiral-matrix) |
 | [0134-gas-station](https://github.com/arpit1627/leetcode/tree/master/0134-gas-station) |
 | [0204-count-primes](https://github.com/arpit1627/leetcode/tree/master/0204-count-primes) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/arpit1627/leetcode/tree/master/0039-combination-sum) |
 | [0093-restore-ip-addresses](https://github.com/arpit1627/leetcode/tree/master/0093-restore-ip-addresses) |
 ## Greedy
 |  |
