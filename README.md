@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/arpit1627/leetcode/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/arpit1627/leetcode/tree/master/0054-spiral-matrix) |
 | [0134-gas-station](https://github.com/arpit1627/leetcode/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/arpit1627/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/arpit1627/leetcode/tree/master/0204-count-primes) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/arpit1627/leetcode/tree/master/0915-partition-array-into-disjoint-intervals) |
 ## Math
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/arpit1627/leetcode/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/arpit1627/leetcode/tree/master/0133-clone-graph) |
+| [0169-majority-element](https://github.com/arpit1627/leetcode/tree/master/0169-majority-element) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -93,4 +95,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/arpit1627/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/arpit1627/leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/arpit1627/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/arpit1627/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
