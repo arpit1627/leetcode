@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/arpit1627/leetcode/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/arpit1627/leetcode/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/arpit1627/leetcode/tree/master/0061-rotate-list) |
 | [0917-reverse-only-letters](https://github.com/arpit1627/leetcode/tree/master/0917-reverse-only-letters) |
 ## Database
 |  |
